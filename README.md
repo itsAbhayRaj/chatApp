@@ -22,7 +22,12 @@ A full-stack real-time chat application built with the MERN stack (MongoDB, Expr
 
 ## 📸 Screenshots
 
-> Include screenshots/gifs of login, chat page, etc.
+<img width="1919" height="956" alt="image" src="https://github.com/user-attachments/assets/dd412013-0d90-4042-b75a-93c801c7195a" />
+
+<img width="1307" height="904" alt="image" src="https://github.com/user-attachments/assets/2eb2f448-7ac9-47bd-87f0-7ee8380c641a" />
+
+<img width="1256" height="904" alt="image" src="https://github.com/user-attachments/assets/df372ae1-b39f-4732-81b8-f14a1315aef8" />
+
 
 ## 🧰 Installation
 
